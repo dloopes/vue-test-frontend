@@ -16,6 +16,13 @@
 
 </p>
 
+
+## DESAFIO DOMO
+
+Otimizar as imagens e expor na galeria. As imagens estão na pasta example/
+
+
+
 # vue-gallery
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/RobinCK/vue-gallery.svg)](https://greenkeeper.io/)
